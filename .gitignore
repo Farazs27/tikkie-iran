@@ -56,3 +56,4 @@ temp/
 # Data files (keep demo data but ignore runtime data)
 backend/data/demo-data.json
 
+.vercel

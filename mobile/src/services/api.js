@@ -5,7 +5,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 // For production, set this to your Vercel deployment URL
 const API_BASE_URL = __DEV__ 
   ? 'http://localhost:3000/api'  // Development
-  : 'https://your-app.vercel.app/api'; // Production - UPDATE THIS AFTER DEPLOYMENT
+  : 'https://tikkie-iran-demo.vercel.app/api'; // Production - Deployed!
 
 const DEMO_MODE = true; // Set to false to use real backend
 
